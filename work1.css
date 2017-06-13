@@ -1,0 +1,162 @@
+@charset "utf-8";
+/* CSS Document */
+
+.all{
+	width:50%;
+	margin:10px auto;
+	border:1px solid #999;
+	background-color:#99FF00;
+	
+		}
+.first_line{
+	margin-left:10px;
+	margin-top:10px;
+	
+}
+.one1{
+	display:inline-block;
+	margin-right:10px;
+	background-color:#FFF;
+	width:100px;
+	height:100px;}
+.two1{
+	display:inline-block;
+	margin-right:10px;
+	background-color:#FFF;
+	width:100px;
+	height:100px;}	
+.three1{
+	display:inline-block;
+	margin-right:10px;
+	background-color:#FFF;
+	width:100px;
+	height:100px;}	
+
+.second_line{
+	margin-right:10px;
+	margin-top:10px;
+	height:100px;	
+}
+.one2{
+	margin-right:0px;
+	background-color:#FFF;
+	width:100px;
+	height:100px;
+	float:right;}
+.two2{
+	margin-right:10px;
+	background-color:#FFF;
+	width:100px;
+	height:100px;
+	float:right;}	
+.three2{
+	margin-right:10px;
+	background-color:#FFF;
+	width:100px;
+	height:100px;
+	float:right;}	
+.three_line{
+	height:100px;
+	margin:10px;
+	background-color:#FFF;
+	}
+.four_line{
+	margin-left:10px;
+	margin-right:10px;
+	height:100px;
+}
+.left_col{
+	width:49%;
+	margin-right:5px;
+	height:100px;
+	background-color:#FFF;
+	float:left;
+
+	}
+.right_col{
+	width:49%;
+	margin-left:5px;
+	height:100px;
+	background-color:#FFF;
+	float:right;
+	}
+	
+.five_line{
+	margin:10px 10px 10px 10px;
+	height:100px;
+	}
+
+.left_col2{
+	width:32%;
+	margin-left:10px 5px 10px 5px;
+	height:100px;
+	background-color:#FFF;
+	float:left;	}
+
+.right_col2{
+	width:32%;
+	margin-left:10px 5px 10px 5px;
+	height:100px;
+	background-color:#FFF;
+	float:right;
+	}
+.middle_col2{
+	position:relative;
+	left:213px;
+	top:0px;
+	height:100px;
+	width:32%;
+	background-color:#FFF;
+	margin-left:10px 5px 10px 5px;	
+	}
+#box1{
+	margin:80px 10px 10px 10px;
+	height:50px;
+	background-color:#FFF;}
+#box2{
+	margin:10px 10px 5px 10px;
+	
+	}
+#box_left{
+	width:80px;
+	margin-right:5px;
+	background-color:#FFF;
+	height:300px;
+	float:left;
+	}
+#box_right{
+	float:right;
+	width:80px;
+	height:300px;
+	margin-left:10px;
+	background-color:#FFF;
+}
+
+#box_middle{
+	background-color:#FFF;
+	height:300px;
+	margin-left:90px;
+	margin-right:90px;
+		}
+
+#box3{
+	margin:10px 10px 10px 10px;
+	height:50px;
+	background-color:#FFF;}
+.bottom_box{
+	width:50%;
+	margin:10px auto;
+	border:1px solid #999;
+	background-color:#99FF00;
+	}
+img{
+	width:100px;
+	height:100px;
+	margin:10px;
+	
+	float:left;
+	}
+.something{
+	margin:10px 10px 10px 125px; 
+	background-color:#FFF;
+	}
